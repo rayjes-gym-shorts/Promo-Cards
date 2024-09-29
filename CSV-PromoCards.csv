@@ -1,69 +1,69 @@
-﻿Name,Region,Type,Set,Cost,FileName
-Comet Hyren,Arderial,Creature,Promo,7,comethyren.jpg
-Jalex,Core,Magi,Promo,14,jalex.jpg
-Zet,Core,Magi,Promo,12,Zet.jpg
-Shivara,Arderial,Magi,Promo,12,shivara.jpg
-Rayje's Construct,Universal,Creature,Promo,12,rayjesconstruct.jpg
-Strag's Ring,Underneath,Relic,Promo,0,stragsring.jpg
-Oranragan,Paradwyn,Creature,Promo,8,pdwynoranragan.jpg
-Thunderquake,Underneath,Spell,Promo,X,thunderquake.jpg
-Kybar's Gift,Kybar's Teeth,Spell,Promo,3,kybarsgift.jpg
-Nightmare Hyren,Core,Creature,Promo,7,nightmarehyren.jpg
-Emaal,Underneath,Magi,Promo,10,emaal.jpg
-Furlosk,Bograth,Creature,Promo,7,furloskbograth.jpg
-Gia,Weave,Magi,Promo,16,Gia.jpg
-Kayliel,Orothe,Magi,Promo,12,kayliel.jpg
-The Prankster,Kybar's Teeth,Magi,Promo,14,prankster.jpg
-Rejuvenate,Universal,Spell,Promo,2,rejuvenate.jpg
-Phosphor Hyren,Underneath,Creature,Promo,7,phosphorhyren.jpg
-Furlosk,Naroom,Creature,Promo,7,furlosknaroom.jpg
-Gragling,Core,Creature,Promo,3,gragling.jpg
-Nightmare's Dawn,Universal,Spell,Promo,2,ndspell.jpg
-Gauntlets of Colossal Power,Universal,Relic,Promo,2,gauntletsofcolpower.jpg
-League Elder,Universal,Magi,Promo,15,leagueelder.jpg
-Rayje's Belt,Universal,Relic,Promo,0,rayjes_belt.jpg
-Ormagon,Underneath,Creature,Promo,10,ormagon.jpg
-Grakanden,Underneath,Creature,Promo,9,grakanden.jpg
-Owinda's Gift,Orothe,Spell,Promo,3,owindasgift.jpg
-Oranragan,Kybar's Teeth,Creature,Promo,8,KToranragan.jpg
-Chogus Little,Kybar's Teeth,Creature,Promo,5,choguslittle.jpg
-Orwin's Ring,Naroom,Relic,Promo,0,orwinsring.jpg
-Gia Pet,Core,Creature,Promo,9,pet.jpg
-Bythan's Gift,Naroom,Spell,Promo,3,bythansgift.jpg
-Abwyn's Gift,Arderial,Spell,Promo,3,abwynsgift.jpg
-The Dark Twins,Core,Magi,Promo,26,the_dark_twins.jpg
-Rabbage,Naroom,Creature,Promo,3,rabbage.jpg
-Tempest Hyren,Arderial,Creature,Promo,7,tempesthyren.jpg
-Nagsis' Sigil,Core,Relic,Promo,0,nagsisigil.jpg
-Morag's Gift,Core,Spell,Promo,3,moragsgift.jpg
-Gorgle's Gift,Cald,Spell,Promo,3,gorgles.jpg
-Pyte,Cald,Magi,Promo,15,pyte.jpg
-Atekkia's Gift,Underneath,Spell,Promo,3,atekkiasgift.jpg
-Volcano Hyren,Cald,Creature,Promo,7,volcanohyren.jpg
-Monsoon Hyren,Orothe,Creature,Promo,7,monsoonhyren.jpg
-Tuku,Universal,Magi,Promo,12,tuku.jpg
-Orlon's Ring,Orothe,Relic,Promo,0,orlonsring.jpg
-Ember Vard,Cald,Creature,Promo,2,embervardcald.jpg
-Shockwave,Arderial,Spell,Promo,5,shockwave.jpg
-Ullig's Ring,Kybar's Teeth,Relic,Promo,0,ulligsring.jpg
-Eidon,Naroom,Magi,Promo,12,Eidon.jpg
-Inferno Xyx,Cald,Creature,Promo,6,inferno.jpg
-Warrior's Boots,Universal,Relic,Promo,0,Warriors_Boots.jpg
-Forest Hyren,Naroom,Creature,Promo,9,forest_hyren.jpg
-Kalius' Ring,Arderial,Relic,Promo,0,kaliusring.jpg
-Barak's Ring,Cald,Relic,Promo,0,baraks.jpg
-Power of the Creators,Universal,Spell,Promo,11,power_of_the_creators.jpg
-Ember Vard,Arderial,Creature,Promo,2,embervardarderial.jpg
-Niffer,Arderial,Magi,Promo,14,niffer.jpg
-Voice of the Storms,Universal,Spell,Promo,2,vots.jpg
-Elemental Shield,Universal,Spell,Promo,1,elementalshield.jpg
-Chayla,Naroom,Magi,Promo,12,chayla.jpg
-Korg,Core,Magi,Promo,19,Korg.jpg
-Glade Hyren,Naroom,Creature,Promo,7,gladehyren.jpg
-Drush,Core,Creature,Promo,4,drush.jpg
-Tony at a Con,Universal,Magi,Promo,12,tonyatacon.jpg
-Empress Gia,Core,Magi,Promo,15,empress.jpg
-Monarch Hyren,Universal,Creature,Promo,9,monarch_hyren.jpg
-Rayje's Shield,Universal,Relic,Promo,2,rayjesshield.jpg
-Coral Pyder,Orothe,Creature,Promo,2,coralpyder.jpg
-Tony Jones,Universal,Magi,Promo,10,tony.jpg
+﻿Name,Region,Type,Set,Cost,FileName,ImageURL
+Comet Hyren,Arderial,Creature,Promo,7,comethyren.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/7c83fe87-5f90-4162-a3b7-c8868580a8cd/comethyren.jpg
+Jalex,Core,Magi,Promo,14,jalex.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/fc28421f-d8a0-4d62-98e4-b94d1a5e0ddc/jalex.jpg
+Zet,Core,Magi,Promo,12,Zet.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/fa362518-84c4-485a-b44f-377a4fcf7136/Zet.jpg
+Shivara,Arderial,Magi,Promo,12,shivara.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/f7ba569d-c0a4-4f6e-b9df-482b8f2d66cc/shivara.jpg
+Rayje's Construct,Universal,Creature,Promo,12,rayjesconstruct.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/f0a048af-8985-47ed-ae67-e0a782f16a46/rayjesconstruct.jpg
+Strag's Ring,Underneath,Relic,Promo,0,stragsring.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/ee753190-1ee4-47d5-908c-0236684e9ba8/stragsring.jpg
+Oranragan,Paradwyn,Creature,Promo,8,pdwynoranragan.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/ea1fb5c5-bd1c-4aaa-a40c-cd1b00f98e59/pdwynoranragan.jpg
+Thunderquake,Underneath,Spell,Promo,X,thunderquake.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/e90b0c89-513c-40e4-ad37-da19cd409d68/thunderquake.jpg
+Kybar's Gift,Kybar's Teeth,Spell,Promo,3,kybarsgift.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/e7fde484-d5c1-4343-ad30-0acfa544fe99/kybarsgift.jpg
+Nightmare Hyren,Core,Creature,Promo,7,nightmarehyren.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/e6c8435a-f374-42af-8599-52327293341d/nightmarehyren.jpg
+Emaal,Underneath,Magi,Promo,10,emaal.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/e12e458d-4279-4c2a-b95f-a966e7b92904/emaal.jpg
+Furlosk,Bograth,Creature,Promo,7,furloskbograth.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/e04a7857-8bd7-4e67-be19-71ec967da9a9/furloskbograth.jpg
+Gia,Weave,Magi,Promo,16,Gia.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/d92c2bcd-1d01-4b5a-af97-39e83fbdc96e/Gia.jpg
+Kayliel,Orothe,Magi,Promo,12,kayliel.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/d8ec3ee5-448f-43be-aee2-41dff57d68be/kayliel.jpg
+The Prankster,Kybar's Teeth,Magi,Promo,14,prankster.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/d87854ef-0b3c-47ca-abbc-2d57ff442b16/prankster.jpg
+Rejuvenate,Universal,Spell,Promo,2,rejuvenate.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/d610a4d0-b687-4acd-b968-9871bf30b132/rejuvenate.jpg
+Phosphor Hyren,Underneath,Creature,Promo,7,phosphorhyren.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/d1572d83-ca2e-4fd3-a0cf-d5cffec367bc/phosphorhyren.jpg
+Furlosk,Naroom,Creature,Promo,7,furlosknaroom.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/d02a68f8-9d64-4c6f-b891-71a83852f928/furlosknaroom.jpg
+Gragling,Core,Creature,Promo,3,gragling.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/ca29a7e4-6339-4913-8cc0-f15404a83bd5/gragling.jpg
+Nightmare's Dawn,Universal,Spell,Promo,2,ndspell.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/c8cf2601-879a-431e-96bc-fcb8abec5cc9/ndspell.jpg
+Gauntlets of Colossal Power,Universal,Relic,Promo,2,gauntletsofcolpower.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/c0ff17ec-773f-4313-896c-5ba55cc1b6a0/gauntletsofcolpower.jpg
+League Elder,Universal,Magi,Promo,15,leagueelder.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/bcbf8abc-03c3-4949-b24a-0917265784bd/leagueelder.jpg
+Rayje's Belt,Universal,Relic,Promo,0,rayjes_belt.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/d69a74e5-4f19-40f2-aefe-7bb08dc51e7e/rayjesbelt.jpg
+Ormagon,Underneath,Creature,Promo,10,ormagon.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/b54b0c6a-817c-460d-b9c9-a2f44303424b/ormagon.jpg
+Grakanden,Underneath,Creature,Promo,9,grakanden.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/af802930-66a6-482d-a184-1bb50bf0308d/grakanden.jpg
+Owinda's Gift,Orothe,Spell,Promo,3,owindasgift.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/a5304968-57e7-48b6-86f6-92c4ed6db6d3/owindasgift.jpg
+Oranragan,Kybar's Teeth,Creature,Promo,8,KToranragan.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/a4e79252-0966-4d54-9980-430169d11c3d/KToranragan.jpg
+Chogus Little,Kybar's Teeth,Creature,Promo,5,choguslittle.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/a1aeb6de-ffbf-4967-b917-6387991aeae2/choguslittle.jpg
+Orwin's Ring,Naroom,Relic,Promo,0,orwinsring.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/9be52101-5b31-41eb-ba1c-aee894324bf1/orwinsring.jpg
+Gia Pet,Core,Creature,Promo,9,pet.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/979ca79f-6c7c-4533-a38a-09af1c062517/pet.jpg
+Bythan's Gift,Naroom,Spell,Promo,3,bythansgift.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/8f3272b7-884e-4116-8589-c165ca290c4b/bythansgift.jpg
+Abwyn's Gift,Arderial,Spell,Promo,3,abwynsgift.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/8a5c1fc6-f4aa-4a44-95ac-28930dccc6cf/abwynsgift.jpg
+The Dark Twins,Core,Magi,Promo,26,the_dark_twins.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/89fc24c3-82e4-47fe-80f7-e8c5ac8f1b93/the_dark_twins.jpg
+Rabbage,Naroom,Creature,Promo,3,rabbage.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/7e6fface-aaf3-4a58-8fac-ec47c47d2e1d/rabbage.jpg
+Tempest Hyren,Arderial,Creature,Promo,7,tempesthyren.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/7b841a11-5afb-4db6-a68a-6848ef03a98e/tempesthyren.jpg
+Nagsis' Sigil,Core,Relic,Promo,0,nagsisigil.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/6f5f8dca-d1ea-49f5-ab2c-a9fbd7052a68/nagsisigil.jpg
+Morag's Gift,Core,Spell,Promo,3,moragsgift.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/65f1c701-5314-4148-a925-bdb835cb1d10/moragsgift.jpg
+Gorgle's Gift,Cald,Spell,Promo,3,gorgles.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/657811d3-bb89-4d6b-a64c-f51b3c07d152/gorgles.jpg
+Pyte,Cald,Magi,Promo,15,pyte.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/61e746e0-aa86-46aa-a8b4-f2f4a3c585cc/pyte.jpg
+Atekkia's Gift,Underneath,Spell,Promo,3,atekkiasgift.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/61ce3468-a54a-4cae-82ee-29a36469fd16/atekkiasgift.jpg
+Volcano Hyren,Cald,Creature,Promo,7,volcanohyren.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/5c5a9bff-642d-45b3-be2e-1bf98a59339f/volcanohyren.jpg
+Monsoon Hyren,Orothe,Creature,Promo,7,monsoonhyren.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/5b83fecc-e07c-403a-a900-64ba8a410df9/monsoonhyren.jpg
+Tuku,Universal,Magi,Promo,12,tuku.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/52a67b26-ad35-43be-a681-e27c3c8d046d/tuku.jpg
+Orlon's Ring,Orothe,Relic,Promo,0,orlonsring.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/51c5e8df-c7b0-4cea-85bb-a6b8e0441031/orlonsring.jpg
+Ember Vard,Cald,Creature,Promo,2,embervardcald.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/4c0f21b6-a9e6-4c76-8ae4-26848856eecf/embervardcald.jpg
+Shockwave,Arderial,Spell,Promo,5,shockwave.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/4b2943ce-665d-4e60-a561-730333dbae22/shockwave.jpg
+Ullig's Ring,Kybar's Teeth,Relic,Promo,0,ulligsring.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/47df6c05-03db-45be-88d6-daaa5f563f83/ulligsring.jpg
+Eidon,Naroom,Magi,Promo,12,Eidon.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/474965a1-2867-4476-b507-837466e4a2c4/Eidon.jpg
+Inferno Xyx,Cald,Creature,Promo,6,inferno.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/45547ad5-1d0f-4b75-9d07-cc8307ccfa61/inferno.jpg
+Warrior's Boots,Universal,Relic,Promo,0,Warriors_Boots.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/7a260067-93a4-4e0c-af9d-6cbf6dbd72c8/warriorsboots.jpg
+Forest Hyren,Naroom,Creature,Promo,9,forest_hyren.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/a216287a-9f34-44ee-9d98-eb40a613b514/foresthyren.jpg
+Kalius' Ring,Arderial,Relic,Promo,0,kaliusring.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/33c7183b-3dc6-4e74-a055-14e4805f87d4/kaliusring.jpg
+Barak's Ring,Cald,Relic,Promo,0,baraks.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/2aae1d68-219d-4076-9129-a1c2154e686f/baraks.jpg
+Power of the Creators,Universal,Spell,Promo,11,power_of_the_creators.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/2559b2b8-c766-41c0-aa91-ba1ac24ec44f/power_of_the_creators.jpg
+Ember Vard,Arderial,Creature,Promo,2,embervardarderial.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/228a600f-e7f7-4963-a4bb-0dcef9d36344/embervardarderial.jpg
+Niffer,Arderial,Magi,Promo,14,niffer.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/215699c8-0997-44ea-ae75-56cad72183bc/niffer.jpg
+Voice of the Storms,Universal,Spell,Promo,2,vots.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/1f143fb4-b567-49f2-81db-9f8835d07394/vots.jpg
+Elemental Shield,Universal,Spell,Promo,1,elementalshield.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/19f9dfb1-87f2-406d-90b2-3322c4e948d2/elementalshield.jpg
+Chayla,Naroom,Magi,Promo,12,chayla.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/18587b22-eaf5-4397-a560-b34a01655c83/chayla.jpg
+Korg,Core,Magi,Promo,19,Korg.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/17f1042c-f4d0-4599-956a-9e5971d74fae/Korg.jpg
+Glade Hyren,Naroom,Creature,Promo,7,gladehyren.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/16f57297-7b2a-4499-a34b-609937cc1adf/gladehyren.jpg
+Drush,Core,Creature,Promo,4,drush.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/0d5d8cd9-6d81-4c02-8a50-ee7325510f0c/Drush.jpg
+Tony at a Con,Universal,Magi,Promo,12,tonyatacon.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/0f7aef51-5cdb-4689-89b1-b44783944837/tonyatacon.jpg
+Empress Gia,Core,Magi,Promo,15,empress.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/0d00847f-8bdb-4d6c-b69c-b43cefab5717/empress.jpg
+Monarch Hyren,Universal,Creature,Promo,9,monarch_hyren.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/0f274d6f-6c41-4d41-8616-02674ce43375/monarchyren.jpg
+Rayje's Shield,Universal,Relic,Promo,2,rayjesshield.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/0af95cf9-f85c-42c4-bc26-95c4a3dd9192/rayjesshield.jpg
+Coral Pyder,Orothe,Creature,Promo,2,coralpyder.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/091c6d20-2e73-469c-8328-335c282cd40f/coralpyder.jpg
+Tony Jones,Universal,Magi,Promo,10,tony.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/048436cf-8995-40e8-828c-035b81741482/tony.jpg
